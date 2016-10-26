@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\TPshop-master\\viewPagerIndicator_library\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\TPshop-master\\androidPullToRefresh_library\\unspecified\\res\\drawable-hdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\TPshop-master\\viewPagerIndicator_library\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicator_arrow.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\TPshop-master\\androidPullToRefresh_library\\unspecified\\res\\drawable-hdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\TPshop-master\\viewPagerIndicator_library\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\TPshop-master\\viewPagerIndicator_library\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\TPshop-master\\androidPullToRefresh_library\\unspecified\\res\\drawable-hdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\TPshop-master\\viewPagerIndicator_library\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sprite_check.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable-hdpi-v4\\sprite_check.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\TPshop-master\\viewPagerIndicator_library\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png"
+    }
+]
