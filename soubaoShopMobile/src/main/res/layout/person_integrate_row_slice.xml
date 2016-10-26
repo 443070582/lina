@@ -1,0 +1,114 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="60dip"
+    android:background="@drawable/view_bg_clickable_selector"
+    android:clickable="true"
+    android:focusable="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="@dimen/margin_space"
+        android:layout_marginRight="120dip"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/margin_space"
+            android:layout_weight="1.0"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/person_balance_txtv"
+                style="@style/textStyle.Normal.black"
+                android:layout_width="match_parent"
+                android:layout_height="20dip"
+                android:gravity="center"
+                android:text="10" />
+
+            <TextView
+                style="@style/textStyle.Normal.black"
+                android:layout_width="match_parent"
+                android:layout_height="20dip"
+                android:gravity="center"
+                android:text="余额" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/margin_space"
+            android:layout_weight="1.0"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/person_point_txtv"
+                style="@style/textStyle.Normal.black"
+                android:layout_width="match_parent"
+                android:layout_height="20dip"
+                android:gravity="center"
+                android:text="10" />
+
+            <TextView
+                style="@style/textStyle.Normal.black"
+                android:layout_width="match_parent"
+                android:layout_height="20dip"
+                android:gravity="center"
+                android:text="积分" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/margin_space"
+            android:layout_weight="1.0"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/person_coupon_txtv"
+                style="@style/textStyle.Normal.black"
+                android:layout_width="match_parent"
+                android:layout_height="20dip"
+                android:gravity="center"
+                android:text="10" />
+
+            <TextView
+                style="@style/textStyle.Normal.black"
+                android:layout_width="match_parent"
+                android:layout_height="20dip"
+                android:gravity="center"
+                android:text="优惠券" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="120dip"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/margin_space"
+        android:gravity="center_vertical|right"
+        android:minWidth="120dip"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/textStyle.Normal.subTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dip"
+            android:text="积分明细" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="5dip"
+            android:src="@drawable/personal_arrow_right" />
+    </LinearLayout>
+</RelativeLayout>

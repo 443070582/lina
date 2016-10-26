@@ -1,0 +1,514 @@
+[
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_plus_normal.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_plus_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\personal_icon_account_manager_arrow.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\personal_icon_account_manager_arrow.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\shop_icon_price_normal.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\shop_icon_price_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\person_head_bg.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\person_head_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_camera.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_camera.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_minus_press.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_minus_press.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\test_i.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\test_i.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\topbar_message.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\topbar_message.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pay_alipay.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\pay_alipay.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_home_menu_fourth.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_home_menu_fourth.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\title_back_selected.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\title_back_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\personal_icon_order_notify_bg.9.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\personal_icon_order_notify_bg.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_coupon_used.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_coupon_used.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_close.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_close.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_swtich_open.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_swtich_open.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_minus_normal.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_minus_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_checkno.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_checkno.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_checked.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_checked.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\smartbar_background.9.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\smartbar_background.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\product_cart.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\product_cart.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_delete.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_delete.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\switch_mask.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\switch_mask.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\switch_frame.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\switch_frame.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\product_unlike.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\product_unlike.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\appicon.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\appicon.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_location.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_location.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_coupon_unuse.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_coupon_unuse.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_line_write.9.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\bg_line_write.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\titlebar_background.9.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\titlebar_background.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pay_cod.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\pay_cod.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_setting.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_setting.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bd7.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\bd7.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\personal_arrow_right.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\personal_arrow_right.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pay_wechat.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\pay_wechat.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_start_uncheck_small.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_start_uncheck_small.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_start_checked_normal.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_start_checked_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\personal_icon_service.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\personal_icon_service.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\personal_icon_privilege.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\personal_icon_privilege.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_start_uncheck_normal.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_start_uncheck_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_home_menu_first.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_home_menu_first.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_focused_holo.9.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\personal_icon_baicai.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\personal_icon_baicai.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_home_menu_sec.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_home_menu_sec.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_level_two.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_level_two.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_text_cursor_mtrl_alpha.9.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_up_small.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_up_small.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_level_three.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_level_three.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_bg_press.9.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\btn_bg_press.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\switch_btn_normal.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\switch_btn_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\jshop_searchbar_search.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\jshop_searchbar_search.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_home_menu_third.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_home_menu_third.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\personal_icon_feedback.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\personal_icon_feedback.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\always_purchase_cart_icon.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\always_purchase_cart_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\personal_order_purchased_icon.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\personal_order_purchased_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ptr_rotate_arrow.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.chanven.lib\\cptr\\1.0.0\\res\\drawable-xhdpi\\ptr_rotate_arrow.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_track_close.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_track_close.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\arrow_right.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\arrow_right.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_swtich_close.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_swtich_close.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_cart_count.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_cart_count.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\personal_order_canceled_icon.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\personal_order_canceled_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_check_p.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\list_check_p.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_bg_normal.9.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\btn_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\flight_text_cancel_pressed.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\flight_text_cancel_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\switch_bottom.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\switch_bottom.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\personal_order_returned_icon.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\personal_order_returned_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bd8.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\bd8.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\personal_order_all_icon.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\personal_order_all_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\personal_icon_pocket.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\personal_icon_pocket.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_pay_success.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_pay_success.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\category_default.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\category_default.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_search.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_search.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_picture.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_picture.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bd0.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\bd0.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_start_checked_small.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_start_checked_small.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_shopcart_empty.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_shopcart_empty.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_track_oepn.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_track_oepn.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bcy.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\bcy.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_plus_press.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_plus_press.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\product_default.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\product_default.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\personal_icon_default_avatar.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\personal_icon_default_avatar.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_level_one.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_level_one.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_edit.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_edit.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\shop_icon_price_desc.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\shop_icon_price_desc.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\switch_btn_pressed.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\switch_btn_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\product_like.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\product_like.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\personal_icon_recommend.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\personal_icon_recommend.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_arrow_detail.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_arrow_detail.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\title_back_normal.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\title_back_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b_input.9.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\b_input.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\personal_order_accepted_icon.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\personal_order_accepted_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\shop_icon_price_asc.png",
+        "source": "D:\\AndroidProject\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\shop_icon_price_asc.png"
+    }
+]

@@ -1,0 +1,114 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="185dip"
+    android:background="@color/bg_activity"
+    android:descendantFocusability="blocksDescendants"
+    android:orientation="vertical">
+
+    <View style="@style/separator_line" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="90dip"
+        android:background="@color/bg_view"
+        android:clickable="true">
+
+        <HorizontalScrollView
+            android:id="@+id/order_product_scrollv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/margin_space"
+
+            android:layout_marginRight="@dimen/margin_space"
+            android:clickable="true">
+
+            <LinearLayout
+                android:id="@+id/product_list_gallery_lyaout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:background="@color/bg_view"
+                android:orientation="horizontal"></LinearLayout>
+        </HorizontalScrollView>
+
+        <RelativeLayout
+            android:id="@+id/order_product_rlayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:clickable="true">
+
+            <ImageView
+                android:id="@+id/order_pic_imgv"
+                android:layout_width="80dip"
+                android:layout_height="80dip"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/margin_space"
+                android:src="@drawable/personal_arrow_right" />
+
+            <TextView
+                android:id="@+id/order_product_name_txtv"
+                style="@style/textStyle.Normal.black"
+                android:layout_width="match_parent"
+                android:layout_height="80dip"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/margin_space_half"
+                android:layout_marginRight="@dimen/margin_space"
+                android:layout_toRightOf="@id/order_pic_imgv"
+                android:gravity="left|center_vertical"
+                android:text="AAAAAAAAAAA" />
+        </RelativeLayout>
+    </FrameLayout>
+
+    <View style="@style/separator_line" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dip"
+        android:background="@color/bg_view">
+
+        <TextView
+            android:id="@+id/order_product_detail_txtv"
+            style="@style/textStyle.Normal.black"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/margin_space_half"
+            android:layout_marginRight="@dimen/margin_space"
+            android:gravity="right|center_vertical"
+            android:text="共1件商品 实付金额¥699" />
+    </LinearLayout>
+
+    <View style="@style/separator_line" />
+
+    <LinearLayout
+        android:id="@+id/order_button_layout"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_row"
+        android:background="@color/bg_view"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <HorizontalScrollView
+            android:id="@+id/order_button_scrollv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:layout_marginRight="@dimen/margin_space"
+            android:fillViewport="true">
+
+            <LinearLayout
+                android:id="@+id/order_button_gallery_lyaout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical|right"
+                android:gravity="right"
+                android:orientation="horizontal"></LinearLayout>
+        </HorizontalScrollView>
+    </LinearLayout>
+
+    <View style="@style/separator_line" />
+
+</LinearLayout>

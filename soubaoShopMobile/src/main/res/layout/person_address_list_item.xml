@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="125.0dip"
+    android:background="@color/bg_view"
+    android:descendantFocusability="blocksDescendants"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dip"
+        android:background="@color/bg_view">
+
+        <TextView
+            android:id="@+id/address_consignee_txtv"
+            style="@style/textStyle.Medium.black"
+            android:layout_width="120dip"
+            android:layout_height="30dip"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:gravity="center_vertical"
+            android:text="张三"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/address_mobile_txtv"
+            style="@style/textStyle.Medium.black"
+            android:layout_width="match_parent"
+            android:layout_height="30dip"
+            android:layout_toRightOf="@id/address_consignee_txtv"
+            android:gravity="center_vertical"
+            android:text="13800138006"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/address_detail_txtv"
+            style="@style/textStyle.Normal.black"
+            android:layout_width="match_parent"
+            android:layout_height="40dip"
+            android:layout_below="@id/address_consignee_txtv"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:gravity="center_vertical"
+            android:lines="2"
+            android:text="福田上梅林" />
+    </RelativeLayout>
+
+    <View
+        style="@style/separator_line"
+        android:layout_marginLeft="@dimen/margin_space"
+        android:layout_marginTop="@dimen/margin_space_half" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dip"
+        android:background="@color/bg_view">
+
+        <Button
+            android:id="@+id/address_setdefault_btn"
+            android:layout_width="20dip"
+            android:layout_height="20dip"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:background="@drawable/icon_checkno"
+            android:focusable="false" />
+
+        <TextView
+            android:id="@+id/address_default_txtv"
+            style="@style/textStyle.Normal.black"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/margin_space_half"
+            android:layout_toRightOf="@id/address_setdefault_btn"
+            android:gravity="center_vertical|left"
+            android:text="设为默认" />
+
+        <TextView
+            android:id="@+id/address_delete_txtv"
+            style="@style/textStyle.Normal.black"
+            android:layout_width="25dip"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/margin_space"
+            android:gravity="center_vertical|right"
+            android:text="删除" />
+
+        <Button
+            android:id="@+id/address_delete_btn"
+            android:layout_width="20dip"
+            android:layout_height="20dip"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@id/address_delete_txtv"
+            android:background="@drawable/icon_delete"
+            android:focusable="false" />
+
+        <TextView
+            android:id="@+id/address_edit_txtv"
+            style="@style/textStyle.Normal.black"
+            android:layout_width="25dip"
+            android:layout_height="match_parent"
+            android:layout_marginRight="@dimen/margin_space"
+            android:layout_toLeftOf="@id/address_delete_btn"
+            android:gravity="center_vertical|right"
+            android:text="编辑" />
+
+        <Button
+            android:id="@+id/address_edit_btn"
+            android:layout_width="20dip"
+            android:layout_height="20dip"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@id/address_edit_txtv"
+            android:background="@drawable/icon_edit"
+            android:focusable="false" />
+    </RelativeLayout>
+
+</LinearLayout>

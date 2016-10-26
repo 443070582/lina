@@ -1,0 +1,123 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/swipe"
+    android:layout_width="match_parent"
+    android:layout_height="110dip">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="110dip"
+        android:background="@color/bg_view"
+        android:descendantFocusability="blocksDescendants"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/position"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/check_btn"
+            android:layout_width="20dip"
+            android:layout_height="20dip"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:background="@drawable/icon_checkno"
+            android:clickable="false"
+            android:focusableInTouchMode="false" />
+
+        <ImageView
+            android:id="@+id/pic_imgv"
+            android:layout_width="80.0dip"
+            android:layout_height="90.0dip"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:layout_marginTop="@dimen/margin_space"
+            android:layout_toRightOf="@id/check_btn"
+            android:background="@color/white"
+            android:scaleType="fitCenter"
+            android:src="@drawable/product_default" />
+
+        <TextView
+            android:id="@+id/name_txtv"
+            style="@style/textStyle.Normal.black"
+            android:layout_width="fill_parent"
+            android:layout_height="44.0dip"
+            android:layout_toRightOf="@id/pic_imgv"
+            android:ellipsize="end"
+            android:gravity="left"
+            android:maxLines="2"
+            android:paddingLeft="@dimen/margin_space"
+            android:paddingRight="@dimen/margin_space"
+            android:paddingTop="@dimen/margin_space"
+            android:text="@string/product_details_detail" />
+
+        <TextView
+            android:id="@+id/shop_price_txtv"
+            style="@style/textStyle.Normal.lightRed"
+            android:layout_width="match_parent"
+            android:layout_height="20.0dip"
+            android:layout_below="@id/name_txtv"
+            android:layout_toRightOf="@id/pic_imgv"
+            android:ellipsize="end"
+            android:gravity="left"
+            android:maxLines="2"
+            android:paddingLeft="@dimen/margin_space"
+            android:paddingRight="@dimen/margin_space"
+            android:text="¥9999" />
+
+        <TextView
+            android:id="@+id/market_price_txtv"
+            style="@style/textStyle.Normal.black"
+            android:layout_width="match_parent"
+            android:layout_height="20.0dip"
+            android:layout_below="@id/name_txtv"
+            android:ellipsize="end"
+            android:gravity="right"
+            android:maxLines="2"
+            android:paddingLeft="@dimen/margin_space"
+            android:paddingRight="@dimen/margin_space"
+            android:text="¥9999" />
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="26dip"
+            android:layout_below="@+id/shop_price_txtv"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:layout_toRightOf="@+id/pic_imgv"
+            android:gravity="left"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/cart_minus_btn"
+                android:layout_width="26dip"
+                android:layout_height="26dip"
+                android:background="@drawable/cart_minus_selector"
+                android:clickable="false"
+                android:focusableInTouchMode="false" />
+
+            <EditText
+                android:id="@+id/cart_count_dtxtv"
+                style="@style/textStyle.Normal.black"
+                android:layout_width="40dip"
+                android:layout_height="26dip"
+                android:layout_toRightOf="@id/cart_minus_btn"
+                android:background="@drawable/icon_cart_count"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:gravity="center"
+                android:inputType="number"
+                android:text="1" />
+
+            <Button
+                android:id="@+id/cart_plus_btn"
+                android:layout_width="26dip"
+                android:layout_height="26dip"
+                android:layout_toRightOf="@id/cart_count_dtxtv"
+                android:background="@drawable/cart_plus_selector"
+                android:focusable="false"
+                android:focusableInTouchMode="false" />
+
+        </RelativeLayout>
+    </RelativeLayout>
+</FrameLayout>

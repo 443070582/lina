@@ -1,0 +1,22 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/button_bg_gray">
+
+    <ImageView
+        android:id="@+id/image_imgv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:src="@drawable/icon_camera" />
+
+    <ImageView
+        android:id="@+id/close_imgv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:src="@drawable/icon_close"
+        android:visibility="invisible" />
+
+
+</FrameLayout>
